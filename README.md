@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Refining my AI knowledge at JKU Linz while maintaining the technical infrastructure for Austria's first official school coding and hacking contest.<br><br>👯 I’m looking to collaborate on<br>Open-source Frontend or Full-Stack projects involving Angular, Spring Boot, or Cybersecurity tools.<br><br>🤝 I’m looking for help with<br>Deepening my expertise in data-driven modeling and advanced computational learning techniques as part of my BSc in Artificial Intelligence.<br><br>🌱 I’m currently learning<br>Advanced AI architectures at Johannes Kepler Universität<br><br>💬 Ask me about<br>Anything you like! If I don't know it today, I'll know it by heart tomorrow. <br><br>Fun Fact<br>I have a habit of naturally sliding into unexpected leadership roles<br>like accidentally becoming the moderator and face of the HTBLA Grieskirchen Coding & Hacking Contest.<br>Whether it’s coordinating a regional tennis team or pitching an autonomous drone system,<br>I always seem to be the one standing in front of the crowd presenting the project.
+🔭 I’m currently working on<br>Refining my AI knowledge at JKU Linz while maintaining the technical infrastructure for Austria's first official school coding and hacking contest.<br><br>👯 I’m looking to collaborate on<br>Open-source Frontend or Full-Stack projects involving Angular, Spring Boot, or Cybersecurity tools.<br><br>🤝 I’m looking for help with<br>Deepening my expertise in data-driven modeling and advanced computational learning techniques as part of my BSc in Artificial Intelligence.<br><br>🌱 I’m currently learning<br>Advanced AI architectures at Johannes Kepler Universität<br><br>💬 Ask me about<br>Anything you like! If I don't know it today, I'll know it by heart tomorrow. <br><br>⚡ Fun Fact<br>I have a habit of naturally sliding into unexpected leadership roles<br>like accidentally becoming the moderator and face of the HTBLA Grieskirchen Coding & Hacking Contest.<br>Whether it’s coordinating a regional tennis team or pitching an autonomous drone system,<br>I always seem to be the one standing in front of the crowd presenting the project.
 
 
 # 💻 Tech Stack:
@@ -8,9 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Schotzgoblin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Schotzgoblin&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Schotzgoblin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Schotzgoblin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
